@@ -31,7 +31,6 @@ body {
 }
 
 .img-container {
-  background-color: aqua;
   height: 450px;
   max-height: 450px;
   background-image: url("./images/image-product-desktop.jpg");
